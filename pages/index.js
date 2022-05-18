@@ -25,7 +25,7 @@ export default function Home() {
           src="/KRMU_LOGO.png"
           alt="krmu logo"
         />
-        <h1 class="text-2xl md:text-5xl text-white px-1 lg:px-8 font-serif">
+        <h1 class="text-2xl md:text-4xl text-white px-1.5 lg:px-auto font-serif">
           School of Engineering & Technology 
         </h1>
       </nav>
@@ -33,7 +33,7 @@ export default function Home() {
       <main className={styles.description}>
         <h1 className="text-2xl lg:text-5xl lg:mt-12 lg:mb-5 italic text-blue-600">Faculty</h1>
 
-        <p class="my-2 text-md text-justify lg:text-2xl lg:my-4">
+        <p class="my-2 text-md text-justify lg:text-xl lg:my-3">
           Well-experienced and distinguished faculty that works diligently to
           transform students into the most desirable personalities every
           industry demands. These through leaders connect with the students to
@@ -41,12 +41,12 @@ export default function Home() {
           mentorship, enabling them to shine in their respective professions.
         </p>
 
-        <div className="mt-8 flex flex-wrap items-center justify-center text-white gap-y-20 gap-x-11 ">
+        <div className="mt-8 flex flex-wrap items-center justify-center text-white gap-y-20 gap-x-11">
           
-        <div className="backdrop-blur-sm bg-ankit-100 w-[350px] h-[200px] lg:w-[400px] lg:h-[220px] shadow-xl shadow-black rounded-xl flex flex-row hover:scale-105 cursor-pointer ">
+        <div className="backdrop-blur-sm bg-ankit-100 w-[350px] h-[200px] lg:w-[350px] lg:h-[200px] shadow-xl shadow-black rounded-xl flex flex-row hover:scale-105 cursor-pointer ">
             <div className="basis-1/2 text-center font-light mt-4">
               <div className="text-3xl italic text-stone-900">Music</div>
-              <div class="text-xs md:text-sm text-center p-2 m-1 lg:p-4 lg:m-2 overflow-hidden text-stone-800">
+              <div class="text-xs md:text-sm text-center p-2 m-1 lg:p-1 lg:m-1 overflow-hidden text-stone-800">
                 Vocal or instrumental sounds (or both) combined in such a way as
                 to produce beauty of form, harmony, and expression of emotion.
               </div>
@@ -54,17 +54,17 @@ export default function Home() {
             <div className="flex items-center justify-center">
               <Image 
                 src="/dr-vineet-dahiya.jpg"
-                height={245}
-                width={245}
+                height={233}
+                width={233}
                 className="rounded-r-xl"
               />
             </div>
           </div>
 
-          <div className="backdrop-blur-sm bg-ankit-100 w-[350px] h-[200px] lg:w-[400px] lg:h-[220px] shadow-xl shadow-black rounded-xl flex flex-row hover:scale-105 cursor-pointer ">
+          <div className="backdrop-blur-sm bg-ankit-100 w-[350px] h-[200px] lg:w-[350px] lg:h-[200px] shadow-xl shadow-black rounded-xl flex flex-row hover:scale-105 cursor-pointer ">
             <div className="basis-1/2 text-center font-light mt-4">
               <div className="text-3xl mb-2 italic text-stone-900">Music</div>
-              <div class="text-xs md:text-sm text-center p-2 m-1 lg:p-4 lg:m-2 overflow-hidden text-stone-800">
+              <div class="text-xs md:text-sm text-center p-2 m-1 lg:p-1 lg:m-1 overflow-hidden text-stone-800">
                 Vocal or instrumental sounds (or both) combined in such a way as
                 to produce beauty of form, harmony, and expression of emotion.
               </div>
@@ -72,17 +72,17 @@ export default function Home() {
             <div className="flex items-center justify-center">
               <Image
                 src="/dr-kaushal-kumar.jpg"
-                height={245}
-                width={245}
+                height={233}
+                width={233}
                 className="rounded-r-xl"
               />
             </div>
           </div>
 
-          <div className="backdrop-blur-sm bg-ankit-100 w-[350px] h-[200px] lg:w-[400px] lg:h-[220px] shadow-xl shadow-black rounded-xl flex flex-row hover:scale-105 cursor-pointer ">
+          <div className="backdrop-blur-sm bg-ankit-100 w-[350px] h-[200px] lg:w-[350px] lg:h-[200px] shadow-xl shadow-black rounded-xl flex flex-row hover:scale-105 cursor-pointer ">
             <div className="basis-1/2 text-center font-light mt-4">
               <div className="text-3xl mb-2 italic text-stone-900">Music</div>
-              <div class="text-xs md:text-sm text-center p-2 m-1 lg:p-4 lg:m-2 overflow-hidden text-stone-800">
+              <div class="text-xs md:text-sm text-center p-2 m-1 lg:p-1 lg:m-1 overflow-hidden text-stone-800">
                 Vocal or instrumental sounds (or both) combined in such a way as
                 to produce beauty of form, harmony, and expression of emotion.
               </div>
@@ -90,17 +90,17 @@ export default function Home() {
             <div className="flex items-center justify-center">
               <Image
                 src="/dr-shweta-bansal.jpg"
-                height={245}
-                width={245}
+                height={233}
+                width={233}
                 className="rounded-r-xl"
               />
             </div>
           </div>
 
-          <div className="backdrop-blur-sm bg-ankit-100 w-[350px] h-[200px] lg:w-[400px] lg:h-[220px] shadow-xl shadow-black rounded-xl flex flex-row hover:scale-105 cursor-pointer ">
+          <div className="backdrop-blur-sm bg-ankit-100 w-[350px] h-[200px] lg:w-[350px] lg:h-[200px] shadow-xl shadow-black rounded-xl flex flex-row hover:scale-105 cursor-pointer ">
             <div className="basis-1/2 text-center font-light mt-4">
               <div className="text-3xl mb-2 italic text-stone-900">Music</div>
-              <div class="text-xs md:text-sm text-center p-2 m-1 lg:p-4 lg:m-2 overflow-hidden text-stone-800">
+              <div class="text-xs md:text-sm text-center p-2 m-1 lg:p-1 lg:m-1 overflow-hidden text-stone-800">
                 Vocal or instrumental sounds (or both) combined in such a way as
                 to produce beauty of form, harmony, and expression of emotion.
               </div>
@@ -108,17 +108,17 @@ export default function Home() {
             <div className="flex items-center justify-center">
               <Image
                 src="/ms-asha-sohal.jpg"
-                height={245}
-                width={245}
+                height={233}
+                width={233}
                 className="rounded-r-xl"
               />
             </div>
           </div>
 
-          <div className="backdrop-blur-sm bg-ankit-100 w-[350px] h-[200px] lg:w-[400px] lg:h-[220px] shadow-xl shadow-black rounded-xl flex flex-row hover:scale-105 cursor-pointer ">
+          <div className="backdrop-blur-sm bg-ankit-100 w-[350px] h-[200px] lg:w-[350px] lg:h-[200px] shadow-xl shadow-black rounded-xl flex flex-row hover:scale-105 cursor-pointer ">
             <div className="basis-1/2 text-center font-light mt-4">
               <div className="text-3xl mb-2 italic text-stone-900">Music</div>
-              <div class="text-xs md:text-sm text-center p-2 m-1 lg:p-4 lg:m-2 overflow-hidden text-stone-800">
+              <div class="text-xs md:text-sm text-center p-2 m-1 lg:p-1 lg:m-1 overflow-hidden text-stone-800">
                 Vocal or instrumental sounds (or both) combined in such a way as
                 to produce beauty of form, harmony, and expression of emotion.
               </div>
@@ -126,17 +126,17 @@ export default function Home() {
             <div className="flex items-center justify-center">
               <Image
                 src="/mr-arvind-kumar.jpg"
-                height={245}
-                width={245}
+                height={233}
+                width={233}
                 className="rounded-r-xl"
               />
             </div>
           </div>
 
-          <div className="backdrop-blur-sm bg-ankit-100 w-[350px] h-[200px] lg:w-[400px] lg:h-[220px] shadow-xl shadow-black rounded-xl flex flex-row hover:scale-105 cursor-pointer ">
+          <div className="backdrop-blur-sm bg-ankit-100 w-[350px] h-[200px] lg:w-[350px] lg:h-[200px] shadow-xl shadow-black rounded-xl flex flex-row hover:scale-105 cursor-pointer ">
             <div className="basis-1/2 text-center font-light mt-4">
               <div className="text-3xl mb-2 italic text-stone-900">Music</div>
-              <div class="text-xs md:text-sm text-center p-2 m-1 lg:p-4 lg:m-2 overflow-hidden text-stone-800">
+              <div class="text-xs md:text-sm text-center p-2 m-1 lg:p-1 lg:m-1 overflow-hidden text-stone-800">
                 Vocal or instrumental sounds (or both) combined in such a way as
                 to produce beauty of form, harmony, and expression of emotion.
               </div>
@@ -144,17 +144,17 @@ export default function Home() {
             <div className="flex items-center justify-center">
               <Image
                 src="/mr-ashwani-kumar.jpg"
-                height={245}
-                width={245}
+                height={233}
+                width={233}
                 className="rounded-r-xl"
               />
             </div>
           </div>
 
-          <div className="backdrop-blur-sm bg-ankit-100 w-[350px] h-[200px] lg:w-[400px] lg:h-[220px] shadow-xl shadow-black rounded-xl flex flex-row hover:scale-105 cursor-pointer ">
+          <div className="backdrop-blur-sm bg-ankit-100 w-[350px] h-[200px] lg:w-[350px] lg:h-[200px] shadow-xl shadow-black rounded-xl flex flex-row hover:scale-105 cursor-pointer ">
             <div className="basis-1/2 text-center font-light mt-4">
               <div className="text-3xl mb-2 italic text-stone-900">Music</div>
-              <div class="text-xs md:text-sm text-center p-2 m-1 lg:p-4 lg:m-2 overflow-hidden text-stone-800">
+              <div class="text-xs md:text-sm text-center p-2 m-1 lg:p-1 lg:m-1 overflow-hidden text-stone-800">
                 Vocal or instrumental sounds (or both) combined in such a way as
                 to produce beauty of form, harmony, and expression of emotion.
               </div>
@@ -162,17 +162,17 @@ export default function Home() {
             <div className="flex items-center justify-center">
               <Image
                 src="/mr-surendra-kumar-yadav.jpg"
-                height={245}
-                width={245}
+                height={233}
+                width={233}
                 className="rounded-r-xl"
               />
             </div>
           </div>
 
-          <div className="backdrop-blur-sm bg-ankit-100 w-[350px] h-[200px] lg:w-[400px] lg:h-[220px] shadow-xl shadow-black rounded-xl flex flex-row hover:scale-105 cursor-pointer ">
+          <div className="backdrop-blur-sm bg-ankit-100 w-[350px] h-[200px] lg:w-[350px] lg:h-[200px] shadow-xl shadow-black rounded-xl flex flex-row hover:scale-105 cursor-pointer ">
             <div className="basis-1/2 text-center font-light mt-4">
               <div className="text-3xl mb-2 italic text-stone-900">Music</div>
-              <div class="text-xs md:text-sm text-center p-2 m-1 lg:p-4 lg:m-2 overflow-hidden text-stone-800">
+              <div class="text-xs md:text-sm text-center p-2 m-1 lg:p-1 lg:m-1 overflow-hidden text-stone-800">
                 Vocal or instrumental sounds (or both) combined in such a way as
                 to produce beauty of form, harmony, and expression of emotion.
               </div>
@@ -180,17 +180,17 @@ export default function Home() {
             <div className="flex items-center justify-center">
               <Image
                 src="/ms-kriti-sharma.jpg"
-                height={245}
-                width={245}
+                height={233}
+                width={233}
                 className="rounded-r-xl"
               />
             </div>
           </div>
 
-          <div className="backdrop-blur-sm bg-ankit-100 w-[350px] h-[200px] lg:w-[400px] lg:h-[220px] shadow-xl shadow-black rounded-xl flex flex-row hover:scale-105 cursor-pointer ">
+          <div className="backdrop-blur-sm bg-ankit-100 w-[350px] h-[200px] lg:w-[350px] lg:h-[200px] shadow-xl shadow-black rounded-xl flex flex-row hover:scale-105 cursor-pointer ">
             <div className="basis-1/2 text-center font-light mt-4">
               <div className="text-3xl mb-2 italic text-stone-900">Music</div>
-              <div class="text-xs md:text-sm text-center p-2 m-1 lg:p-4 lg:m-2 overflow-hidden text-stone-800">
+              <div class="text-xs md:text-sm text-center p-2 m-1 lg:p-1 lg:m-1 overflow-hidden text-stone-800">
                 Vocal or instrumental sounds (or both) combined in such a way as
                 to produce beauty of form, harmony, and expression of emotion.
               </div>
@@ -198,8 +198,8 @@ export default function Home() {
             <div className="flex items-center justify-center">
               <Image
                 src="/ms-puja-acharya.jpg"
-                height={245}
-                width={245}
+                height={233}
+                width={233}
                 className="rounded-r-xl"
               />
             </div>
