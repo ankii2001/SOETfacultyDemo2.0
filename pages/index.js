@@ -62,7 +62,7 @@ export default function Home() {
           </div>
 
           <div className="backdrop-blur-sm bg-ankit-100 w-[350px] h-[200px] lg:w-[350px] lg:h-[200px] shadow-xl shadow-black rounded-xl flex flex-row hover:scale-105 cursor-pointer ">
-            <div className="basis-1/2 text-center font-light mt-4">
+            <div className="basis-1/2 text-center font-light mt-2">
               <div className="text-3xl mb-2 italic text-stone-900">Music</div>
               <div class="text-xs md:text-sm text-center p-2 m-1 lg:p-y-1 lg:m-0 overflow-hidden text-stone-800">
                 Vocal or instrumental sounds combined in such a way as
@@ -80,7 +80,7 @@ export default function Home() {
           </div>
 
           <div className="backdrop-blur-sm bg-ankit-100 w-[350px] h-[200px] lg:w-[350px] lg:h-[200px] shadow-xl shadow-black rounded-xl flex flex-row hover:scale-105 cursor-pointer ">
-            <div className="basis-1/2 text-center font-light mt-4">
+            <div className="basis-1/2 text-center font-light mt-2">
               <div className="text-3xl mb-2 italic text-stone-900">Music</div>
               <div class="text-xs md:text-sm text-center p-2 m-1 lg:p-y-1 lg:m-0 overflow-hidden text-stone-800">
                 Vocal or instrumental sounds combined in such a way as
@@ -98,7 +98,7 @@ export default function Home() {
           </div>
 
           <div className="backdrop-blur-sm bg-ankit-100 w-[350px] h-[200px] lg:w-[350px] lg:h-[200px] shadow-xl shadow-black rounded-xl flex flex-row hover:scale-105 cursor-pointer ">
-            <div className="basis-1/2 text-center font-light mt-4">
+            <div className="basis-1/2 text-center font-light mt-2">
               <div className="text-3xl mb-2 italic text-stone-900">Music</div>
               <div class="text-xs md:text-sm text-center p-2 m-1 lg:p-y-1 lg:m-0 overflow-hidden text-stone-800">
                 Vocal or instrumental sounds combined in such a way as
@@ -116,7 +116,7 @@ export default function Home() {
           </div>
 
           <div className="backdrop-blur-sm bg-ankit-100 w-[350px] h-[200px] lg:w-[350px] lg:h-[200px] shadow-xl shadow-black rounded-xl flex flex-row hover:scale-105 cursor-pointer ">
-            <div className="basis-1/2 text-center font-light mt-4">
+            <div className="basis-1/2 text-center font-light mt-2">
               <div className="text-3xl mb-2 italic text-stone-900">Music</div>
               <div class="text-xs md:text-sm text-center p-2 m-1 lg:p-y-1 lg:m-0 overflow-hidden text-stone-800">
                 Vocal or instrumental sounds combined in such a way as
@@ -134,7 +134,7 @@ export default function Home() {
           </div>
 
           <div className="backdrop-blur-sm bg-ankit-100 w-[350px] h-[200px] lg:w-[350px] lg:h-[200px] shadow-xl shadow-black rounded-xl flex flex-row hover:scale-105 cursor-pointer ">
-            <div className="basis-1/2 text-center font-light mt-4">
+            <div className="basis-1/2 text-center font-light mt-2">
               <div className="text-3xl mb-2 italic text-stone-900">Music</div>
               <div class="text-xs md:text-sm text-center p-2 m-1 lg:p-y-1 lg:m-0 overflow-hidden text-stone-800">
                 Vocal or instrumental sounds combined in such a way as
@@ -152,7 +152,7 @@ export default function Home() {
           </div>
 
           <div className="backdrop-blur-sm bg-ankit-100 w-[350px] h-[200px] lg:w-[350px] lg:h-[200px] shadow-xl shadow-black rounded-xl flex flex-row hover:scale-105 cursor-pointer ">
-            <div className="basis-1/2 text-center font-light mt-4">
+            <div className="basis-1/2 text-center font-light mt-2">
               <div className="text-3xl mb-2 italic text-stone-900">Music</div>
               <div class="text-xs md:text-sm text-center p-2 m-1 lg:p-y-1 lg:m-0 overflow-hidden text-stone-800">
                 Vocal or instrumental sounds combined in such a way as
@@ -170,7 +170,7 @@ export default function Home() {
           </div>
 
           <div className="backdrop-blur-sm bg-ankit-100 w-[350px] h-[200px] lg:w-[350px] lg:h-[200px] shadow-xl shadow-black rounded-xl flex flex-row hover:scale-105 cursor-pointer ">
-            <div className="basis-1/2 text-center font-light mt-4">
+            <div className="basis-1/2 text-center font-light mt-2">
               <div className="text-3xl mb-2 italic text-stone-900">Music</div>
               <div class="text-xs md:text-sm text-center p-2 m-1 lg:p-y-1 lg:m-0 overflow-hidden text-stone-800">
                 Vocal or instrumental sounds combined in such a way as
@@ -188,7 +188,7 @@ export default function Home() {
           </div>
 
           <div className="backdrop-blur-sm bg-ankit-100 w-[350px] h-[200px] lg:w-[350px] lg:h-[200px] shadow-xl shadow-black rounded-xl flex flex-row hover:scale-105 cursor-pointer ">
-            <div className="basis-1/2 text-center font-light mt-4">
+            <div className="basis-1/2 text-center font-light mt-2">
               <div className="text-3xl mb-2 italic text-stone-900">Music</div>
               <div class="text-xs md:text-sm text-center p-2 m-1 lg:p-y-1 lg:m-0 overflow-hidden text-stone-800">
                 Vocal or instrumental sounds combined in such a way as
