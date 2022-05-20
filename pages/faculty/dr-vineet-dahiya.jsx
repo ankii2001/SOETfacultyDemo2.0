@@ -1,7 +1,7 @@
 import styles from "../../styles/Home.module.css";
 import Head from "/node_modules/next/head";
 import Image from "/node_modules/next/image";
-import {HiMail} from 'react-icons/Hi';
+import {HiMail} from 'react-icons/HiMail';
 
 const drVineetDahiya = () => {
   return (
