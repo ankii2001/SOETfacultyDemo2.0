@@ -32,7 +32,7 @@ const drVineetDahiya = () => {
         <div>
         <div class='flex mt-20'>
         <Image
-          src="/dr-vineet-dahiya.jpg"
+          src="/static/dr-vineet-dahiya.jpg"
           height={350}
           width={350}
           className="rounded-full"
