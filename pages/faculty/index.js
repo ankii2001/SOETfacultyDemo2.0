@@ -62,7 +62,7 @@ export default function Home() {
             </div>
             <div className="flex items-center justify-center">
               <Image
-                src="/dr-vineet-dahiya.jpg"
+                src="/static/dr-vineet-dahiya.jpg"
                 height={232}
                 width={232}
                 className="rounded-r-xl"
@@ -85,7 +85,7 @@ export default function Home() {
             </div>
             <div className="flex items-center justify-center">
               <Image
-                src="/dr-kaushal-kumar.jpg"
+                src="/static/dr-kaushal-kumar.jpg"
                 height={233}
                 width={233}
                 className="rounded-r-xl"
@@ -108,7 +108,7 @@ export default function Home() {
             </div>
             <div className="flex items-center justify-center">
               <Image
-                src="/dr-shweta-bansal.jpg"
+                src="/static/dr-shweta-bansal.jpg"
                 height={233}
                 width={233}
                 className="rounded-r-xl"
@@ -131,7 +131,7 @@ export default function Home() {
             </div>
             <div className="flex items-center justify-center">
               <Image
-                src="/ms-asha-sohal.jpg"
+                src="/static/ms-asha-sohal.jpg"
                 height={233}
                 width={233}
                 className="rounded-r-xl"
@@ -154,7 +154,7 @@ export default function Home() {
             </div>
             <div className="flex items-center justify-center">
               <Image
-                src="/mr-arvind-kumar.jpg"
+                src="/static/mr-arvind-kumar.jpg"
                 height={233}
                 width={233}
                 className="rounded-r-xl"
@@ -177,7 +177,7 @@ export default function Home() {
             </div>
             <div className="flex items-center justify-center">
               <Image
-                src="/mr-ashwani-kumar.jpg"
+                src="/static/mr-ashwani-kumar.jpg"
                 height={233}
                 width={233}
                 className="rounded-r-xl"
@@ -200,7 +200,7 @@ export default function Home() {
             </div>
             <div className="flex items-center justify-center">
               <Image
-                src="/mr-surendra-kumar-yadav.jpg"
+                src="/static/mr-surendra-kumar-yadav.jpg"
                 height={233}
                 width={233}
                 className="rounded-r-xl"
@@ -223,7 +223,7 @@ export default function Home() {
             </div>
             <div className="flex items-center justify-center">
               <Image
-                src="/ms-kriti-sharma.jpg"
+                src="/static/ms-kriti-sharma.jpg"
                 height={233}
                 width={233}
                 className="rounded-r-xl"
@@ -246,7 +246,7 @@ export default function Home() {
             </div>
             <div className="flex items-center justify-center">
               <Image
-                src="/ms-puja-acharya.jpg"
+                src="/static/ms-puja-acharya.jpg"
                 height={233}
                 width={233}
                 className="rounded-r-xl"
