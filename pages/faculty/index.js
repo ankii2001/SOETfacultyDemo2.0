@@ -1,4 +1,4 @@
-import {FaArrowRight} from 'react-icons/Fa';
+import {FaArrowRight} from 'react-icons/fa';
 import styles from "../../styles/Home.module.css";
 import Head from "/node_modules/next/head";
 import Image from "/node_modules/next/image";
